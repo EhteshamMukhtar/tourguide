@@ -1,3 +1,3 @@
-# Test website for tour guide 
+# Test website
 # I have added this new text
 # Hope the test works out
